@@ -1,4 +1,5 @@
 export interface IPlayItem {
   name: string;
-  url: string
+  url: string;
+  singer: string
 }

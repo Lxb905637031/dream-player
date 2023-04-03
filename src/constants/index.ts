@@ -10,27 +10,33 @@ import endOfWorld from '@sources/直到世界尽头.mp3'
 const playList: IPlayItem[] = [
   {
     name: '晴天',
-    url: clearDay
+    url: clearDay,
+    singer: '周杰伦'
   },
   {
-    name: '晴天',
-    url: weWay
+    name: '任我行',
+    url: weWay,
+    singer: '陈奕讯'
   },
   {
     name: '森林',
-    url: forset
+    url: forset,
+    singer: 'MR'
   },
   {
     name: '少女的祈祷',
-    url: prayOfMaiden
+    url: prayOfMaiden,
+    singer: '杨千嬅'
   },
   {
     name: '有心人',
-    url: personOfMind
+    url: personOfMind,
+    singer: '张国荣'
   },
   {
     name: '直到世界尽头',
-    url: endOfWorld
+    url: endOfWorld,
+    singer: 'WANDS'
   }
 ]
 
